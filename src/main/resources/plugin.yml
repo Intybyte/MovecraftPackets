@@ -1,0 +1,7 @@
+name: MovecraftPackets
+version: '1.0-SNAPSHOT'
+main: me.vaan.movecraftPackets.MovecraftPackets
+api-version: '1.20'
+depend:
+  - Movecraft
+  - ProtocolLib
